@@ -1,0 +1,4 @@
+{
+  "checks": { "office-preview": "bash scripts/verify-office-preview.sh" },
+  "check_targets": { "office-preview": "linux" }
+}
